@@ -11,6 +11,7 @@
  * @version     1.0.0
  * @since       File available since 1.0.0
  * @link        http://www.formaserve.co.uk 
+ * New line of code
  * 
  */
 class Fss_Error {
